@@ -19,8 +19,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/marcosbarker/bubble_sort/blob/main/img/img-term.jpg">
-        <img src="" alt="imagem terminal">
+    <a href="">
+        <img src="https://github.com/marcosbarker/bubble_sort/blob/main/img/img-term.jpg" alt="imagem terminal">
     </a>
         </p>
 

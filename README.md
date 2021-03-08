@@ -12,8 +12,6 @@
 
 ### Exercício
 
-<br/>
-
 <h4 align="justify">
     Implemente um programa que leia um conjunto de números em um vetor e depois utilize o método bubble sort para ordenar o vetor. 
     </h4>
